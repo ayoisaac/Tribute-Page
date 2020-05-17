@@ -1,0 +1,58 @@
+* {
+    box-sizing: border-box;
+}
+
+html {
+    background-color: white;
+    margin: 25px 9px;
+}
+
+body {
+    background: #e6e6e6;
+    height: 100%;
+    padding: 20px;
+    border-radius: 5px;
+    margin: 0;
+    font-family: "Poppins";
+}
+
+.title {
+    text-align: center;
+}
+
+.img-div {
+    text-align: center;
+    padding: 8px 20px;
+    background-color: white;
+}
+
+.img-caption {
+    padding: 5px 0;
+}
+
+.tribute-info {
+    text-align: left;
+    width: 50%;
+    position: relative;
+    left: 25%;
+}
+
+.tribute-info h3 {
+    text-align: center;
+}
+
+ul {
+    line-height: 1.8em;
+}
+
+li {
+    margin: 10px 0;
+}
+
+blockquote {
+    padding: 20px 0;
+}
+
+.footer {
+    text-align: center;
+}
